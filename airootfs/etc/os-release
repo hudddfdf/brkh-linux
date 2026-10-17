@@ -1,0 +1,9 @@
+NAME="brkh Linux"
+PRETTY_NAME="brkh Linux 1.0"
+ID=brkh
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="1;36"
+HOME_URL="https://github.com/ibrkh/brkh-linux"
+DOCUMENTATION_URL="https://github.com/ibrkh/brkh-linux/wiki"
+LOGO=brkh-logo

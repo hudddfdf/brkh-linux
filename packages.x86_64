@@ -1,0 +1,127 @@
+# Base system
+base
+base-devel
+linux
+linux-firmware
+linux-headers
+mkinitcpio
+grub
+efibootmgr
+networkmanager
+openssh
+sudo
+curl
+wget
+git
+vim
+neovim
+zsh
+tmux
+htop
+btop
+unzip
+p7zip
+rsync
+man-db
+man-pages
+
+# Terminal / shell
+zsh-completions
+zsh-syntax-highlighting
+zsh-autosuggestions
+starship
+fzf
+bat
+eza
+ripgrep
+fd
+
+# Networking tools
+nmap
+netcat
+wireshark-qt
+tcpdump
+iproute2
+net-tools
+dnsutils
+whois
+traceroute
+arp-scan
+masscan
+
+# Web / HTTP
+burpsuite
+sqlmap
+gobuster
+ffuf
+nikto
+whatweb
+curl
+httpie
+
+# Password / crypto
+hashcat
+john
+hydra
+medusa
+cracklib
+openssl
+gpg
+
+# Exploitation
+metasploit
+exploitdb
+gdb
+pwndbg
+pwntools
+checksec
+
+# Reverse engineering
+radare2
+ghidra
+strace
+ltrace
+binwalk
+file
+strings
+hexdump
+
+# Wireless
+aircrack-ng
+airmon-ng
+wifite
+reaver
+bettercap
+
+# Forensics / OSINT
+volatility3
+autopsy
+foremost
+exiftool
+steghide
+binwalk
+theHarvester
+maltego
+
+# Containers / virt
+docker
+qemu-base
+
+# Desktop (minimal)
+xorg-server
+xorg-xinit
+i3-wm
+i3status
+dmenu
+alacritty
+nitrogen
+picom
+xclip
+xdotool
+flameshot
+firefox
+
+# Fonts
+ttf-hack-nerd
+ttf-jetbrains-mono-nerd
+noto-fonts
