@@ -22,7 +22,7 @@ jobs:
           echo 'Server = https://mirror.rackspace.com/archlinux/$repo/os/$arch' >> /etc/pacman.d/mirrorlist
 
       - name: Install archiso
-        run: pacman -Sy --noconfirm archiso
+        run: pacman -Sy --noconfirm archiso grub
 
       - name: Set up build profile
         run: |
